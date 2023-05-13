@@ -5,7 +5,7 @@
   "icon": "exias_theme_logo.png",
   "displayName": "Exias Theme",
   "description": "",
-  "version": "1.3.0",
+  "version": "1.2.13",
   "engines": {
     "vscode": "^1.78.0"
   },
