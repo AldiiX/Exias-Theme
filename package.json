@@ -5,7 +5,7 @@
   "icon": "exias_theme_logo.png",
   "displayName": "Exias Theme",
   "description": "",
-  "version": "1.2.13",
+  "version": "1.2.133",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -15,12 +15,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "High Contrast",
+        "label": "Exias (High Contrast)",
         "uiTheme": "vs-dark",
         "path": "./themes/high_contrast.json"
       },
       {
-        "label": "Eyepleasing",
+        "label": "Exias (EyePleasing)",
         "uiTheme": "vs-dark",
         "path": "./themes/eyepleasing.json"
       }
