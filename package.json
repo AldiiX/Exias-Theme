@@ -1,9 +1,10 @@
 {
-  "name": "twentyfour-theme",
+  "name": "exias-theme",
   "publisher": "AldiiX",
-  "displayName": "TwentyFour Theme",
+  "icon": "https://github.com/AldiiX/ExiasTheme/logo.png",
+  "displayName": "Exias Theme",
   "description": "",
-  "version": "1.1.5",
+  "version": "1.2.0",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -13,9 +14,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "TwentyFour Theme",
+        "label": "High Contrast",
         "uiTheme": "vs-dark",
-        "path": "./themes/TwentyFour Theme-color-theme.json"
+        "path": "./themes/high_contrast.json"
+      },
+      {
+        "label": "Eyepleasing",
+        "uiTheme": "vs-dark",
+        "path": "./themes/eyepleasing.json"
       }
     ]
   }

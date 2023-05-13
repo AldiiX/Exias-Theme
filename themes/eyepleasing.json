@@ -1,5 +1,6 @@
 {
-	"name": "TwentyFour Theme",
+	"name": "EyePleasing Theme",
+	"type": "dark",
 	"colors": {
 		"foreground": "#9FADC2",
 		"focusBorder": "#13161B",
@@ -253,7 +254,7 @@
 		"breadcrumb.activeSelectionForeground": "#e0e0e0",
 		"editorGutter.commentRangeForeground": "#c5c5c5",
 		"debugExceptionWidget.background": "#13161B",
-		"debugExceptionWidget.border": "#474747",
+		"debugExceptionWidget.border": "#474747"
 	},
 	"tokenColors": [
 		{
@@ -309,7 +310,7 @@
 				"variable.language.this"
 			],
 			"settings": {
-				"foreground": "#337799",
+				"foreground": "#337799"
 			}
 		},
 		{
@@ -406,7 +407,7 @@
 				"support.constant",
 				"constant.character",
 				"constant.escape",
-				"variable.parameter",
+				"variable.parameter"
 			],
 			"settings": {
 				"foreground": "#337799"
@@ -816,7 +817,7 @@
 		{
 			"name": "Markdown - Link Description",
 			"scope": [
-				"string.other.link.description.title.markdown",
+				"string.other.link.description.title.markdown"
 
 			],
 			"settings": {
