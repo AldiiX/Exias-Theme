@@ -1,7 +1,7 @@
 {
   "name": "exias-theme",
   "publisher": "AldiiX",
-  "icon": "https://github.com/AldiiX/ExiasTheme/logo.png",
+  "_icon": "https://github.com/AldiiX/ExiasTheme/logo.png",
   "displayName": "Exias Theme",
   "description": "",
   "version": "1.2.0",
