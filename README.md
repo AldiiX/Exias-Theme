@@ -1,4 +1,4 @@
-# Exias Theme
+# Exias Theme for Visual Studio Code
 
 The theme extension features two minimalist themes, each with its own unique color palette and design.
 
