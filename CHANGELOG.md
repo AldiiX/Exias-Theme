@@ -1,9 +1,13 @@
-# Change Log
+# CHANGELOG
 
-All notable changes to the "twentyfour-theme" extension will be documented in this file.
+## [1.2.14] (14.5.2023)
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### Added
 
-## [Unreleased]
+- Forest Theme
+- Town Theme
 
-- Initial release
+### Changed
+
+- Eyepleasing renamed to Midnight
+- High Contrast renamed to Colorful

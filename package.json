@@ -5,7 +5,7 @@
   "icon": "exias_theme_logo.png",
   "displayName": "Exias Theme",
   "description": "",
-  "version": "1.2.135",
+  "version": "1.2.14",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -15,14 +15,24 @@
   "contributes": {
     "themes": [
       {
-        "label": "Exias (High Contrast)",
+        "label": "Exias (Colorful)",
         "uiTheme": "vs-dark",
-        "path": "./themes/high_contrast.json"
+        "path": "./themes/colorful.json"
       },
       {
-        "label": "Exias (EyePleasing)",
+        "label": "Exias (Midnight)",
         "uiTheme": "vs-dark",
-        "path": "./themes/eyepleasing.json"
+        "path": "./themes/midnight.json"
+      },
+      {
+        "label": "Exias (Forest)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forest.json"
+      },
+      {
+        "label": "Exias (Town)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/town.json"
       }
     ]
   }
